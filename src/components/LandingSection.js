@@ -16,7 +16,7 @@ const LandingSection = () => (
     backgroundColor="#2A4365"
   >
     
-    <Avatar size="2xl" />
+    <Avatar size="2xl" src={process.env.PUBLIC_URL+'/pic.jpg'}/>
     <VStack spacing>
       <Heading size="md">{greeting}</Heading>
       <br />
