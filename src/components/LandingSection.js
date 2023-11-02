@@ -15,7 +15,8 @@ const LandingSection = () => (
     isDarkBackground
     backgroundColor="#2A4365"
   >
-    <Avatar name="Sara Bazaz" size="2xl" src='https://i.pravatar.cc/150?img=7'/>
+    
+    <Avatar size="2xl" />
     <VStack spacing>
       <Heading size="md">{greeting}</Heading>
       <br />
