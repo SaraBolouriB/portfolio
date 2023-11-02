@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Portfolio Project
 
 This is a mini project that has been implemented for the **Advanced React** course on Coursera. This project was bootstrapped with [Create React App]. 
 
