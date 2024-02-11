@@ -6,10 +6,8 @@
 <p align="justify">
 
 This is a mini project that has been implemented for the **Advanced React** course offered by *Meta*. This project was bootstrapped with [Create React App]. 
-This is a single-page application that contains *projects* and *contact me* sections.
+This is a single-page application that contains *projects* and *contact me* sections. In the projects section, there is a simple gallery that shows four different cards.
 </p>
-
-## Projects
 
 ## How to run
 To execute the project, follow the steps below:
