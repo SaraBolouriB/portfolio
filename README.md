@@ -6,8 +6,20 @@
 <p align="justify">
 
 This is a mini project that has been implemented for the **Advanced React** course offered by *Meta*. This project was bootstrapped with [Create React App]. 
-This is a single-page application that contains *projects* and *contact me* sections. In the *projects* section, there is a simple gallery that shows four different cards. In the *contact me* section, there is a form 
+This is a single-page application that contains *projects* and *contact me* sections. 
 </p>
+
+## Projects section
+In the *projects* section, there is a simple gallery that shows four different cards including project samples with pictures and descriptions.
+
+![image](https://github.com/SaraBolouriB/portfolio/assets/45979215/6a26991a-6842-49ec-a0bc-1eaca21c239b)
+
+## Contact me section
+In the *Contact me* section, there is a form with four different inputs.  Input validation occurs during form submission, preventing submission if any input value is incorrect.
+<div align="center">
+  
+![image](https://github.com/SaraBolouriB/portfolio/assets/45979215/496d2a48-c0e2-49b5-a93f-ac757ce26eab)
+</div>
 
 ## How to run
 To execute the project, follow the steps below:
